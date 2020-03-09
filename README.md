@@ -2,6 +2,7 @@
 ==================================================================
 Human Activity Recognition Using Smartphones 
 Summary Dataset and R Script - Getting and Cleaning Data in R final programming assignment
+
 ==================================================================
 Based on data collected by
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
@@ -10,6 +11,7 @@ DITEN - Universit? degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
+
 ==================================================================
 This R Script collects, merges, tidies and summarises data on Human Activity Recognition Using Smartphones as Activity Sensors.
 
@@ -26,8 +28,9 @@ The summarised dataset, 'tidydata.txt', selects the mean and standard deviation 
 - An activity code.
 - An identifier of the subject who carried out the experiment.
 
-The dataset includes the following files:
 =========================================
+The dataset includes the following files:
+
 
 - 'README.txt': this file describing the nature of the data and the project
 
